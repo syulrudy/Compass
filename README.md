@@ -1,8 +1,7 @@
 # Avaliação Compass
 
 # Tema: Segurança de redes: Conheça as vulnerabilidades de servidores e clientes 
-1. 
-O que é um ataque DDoS e como posso me proteger? 
+1. O que é um ataque DDoS e como posso me proteger?
 O ataque DDoS é um ataque de negação, onde o invasor visa sobrecarregar o servidor com tráfego de internet falso, dessa forma o servidor sobrecarregado deixa de responder as conexões legitimas, ficando indisponível por um período de tempo.
 
 Nesse tipo de ataque são usados terminais muitas vezes invadidos por malware, que infectam outros equipamentos conforme tenha acesso, tornando essas máquinas Bot zumbi, essa técnica dificulta ou inviabiliza a correta identificação de quem iniciou o ataque.
